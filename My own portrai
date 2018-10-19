@@ -1,0 +1,17 @@
+<div class="col-12 col-md-6 col-lg-3 contributor">
+    <div class="card card__animate">
+         <img class="card-img-top img-fluid" data-src="http://lowbird.com/data/images/2012/10/imgur-vcu15.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">Vantor2</h5>
+            <hr class="separator">
+            <hr class="separator">
+            <p class="card-text">So, why did I choosed to start programming? There is no heroic answer to this question. It kinda just happend.
+            I started simple programming in the school with using delphi, HTML4 and CSS3. I installed lately the app SoloLearn and got into it again.
+            A big help was freecodecamp.com and khanacademy.com too. I am still a beginner and have not much experience with the style of programming
+            and/or using GitHub as a platform - but I hope that this event will teach me how to interact with OpenScource platforms so there will be
+            longtime motivation and maybe help some others with their code too. :)
+            </p>
+            <a href="https://github.com/Vantor2" class="button">GitHub Profile: Vantor2</a>
+        </div>
+    </div>
+</div>
